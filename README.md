@@ -19,7 +19,11 @@ The project involves setting up a retail sales database, performing exploratory 
 - Database creation : First I created a database `sql_project_p1` .
 - Table Creation : I created table named `retail_sales` to store the sales data. The table structure includes columns for transactions id,sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
-![image](https://github.com/user-attachments/assets/52fa2ee0-eb69-4576-87a3-9554b3fbdbca)
+![image](https://github.com/user-attachments/assets/52fa2ee0-eb69-4576-87a3-9554b3fbdbca) 
+
+ We imported the data from dataset .
+ You can find the dataset used in this project here:  
+[📄 SQL - Retail Sales Analysis utf.csv](./SQL%20-%20Retail%20Sales%20Analysis%20utf.csv)
 
 ## 2) Data Exploration and Cleaning.
 - Record Count: Determine the total number of records in the dataset.
