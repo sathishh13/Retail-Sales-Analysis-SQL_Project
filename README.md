@@ -98,7 +98,8 @@ FROM retail_sales
 GROUP BY 1, 2
 ) as t1
 WHERE rank = 1  `
-9) **Write a SQL query to find the top 5 customers based on the highest total sales **
+
+9) Write a SQL query to find the top 5 customers based on the highest total sales 
 
  ` SELECT  customer_id,
     SUM(total_sale) as total_sales
