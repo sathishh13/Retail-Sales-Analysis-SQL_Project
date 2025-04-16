@@ -23,7 +23,7 @@ The project involves setting up a retail sales database, performing exploratory 
 
  We imported the data from dataset .
  You can find the dataset used in this project here:  
-[📄 SQL - Retail Sales Analysis utf.csv](./SQL%20-%20Retail%20Sales%20Analysis%20utf.csv)
+ ` SQL - Retail Sales Analysis utf.csv  `
 
 ## 2) Data Exploration and Cleaning.
 - Record Count: Determine the total number of records in the dataset.
