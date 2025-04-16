@@ -15,6 +15,6 @@ The project involves setting up a retail sales database, performing exploratory 
 
 ## Project Structure
 
-## 1) DataBase Set Up:
-      - Database creation : First I created a database `sql_project_p1` .
+## 1) DataBase Set Up: 
+      Database creation : First I created a database `sql_project_p1` .
    
