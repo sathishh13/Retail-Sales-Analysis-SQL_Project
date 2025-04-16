@@ -17,4 +17,8 @@ The project involves setting up a retail sales database, performing exploratory 
 
 ## 1) DataBase Set Up :
 - Database creation : First I created a database `sql_project_p1` .
+- Table Creation : I created table named `retail_sales` to store the sales data. The table structure includes columns for transactions id,sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+
+![image](https://github.com/user-attachments/assets/52fa2ee0-eb69-4576-87a3-9554b3fbdbca)
+
    
