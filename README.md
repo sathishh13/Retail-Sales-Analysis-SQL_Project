@@ -132,3 +132,10 @@ SELECT
     COUNT(*) as total_orders    
 FROM hourly_sale
 GROUP BY shift ` 
+
+
+## Findings
+- The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
+- Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- Monthly analysis shows variations in sales, helping identify peak seasons.
+- The analysis identifies the top-spending customers and the most popular product categories
