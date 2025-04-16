@@ -12,3 +12,9 @@ The project involves setting up a retail sales database, performing exploratory 
 3)Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
 
 4)Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data
+
+## Project Structure
+
+## 1) DataBase Set Up:
+      - Database creation : First I created a database `sql_project_p1` .
+   
